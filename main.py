@@ -1,4 +1,4 @@
-from org.cloudbsd.bsdbuilder.BSDBuilder import BSDBuilder
+from org.cloudbsd.application.bsdbuilder.BSDBuilder import BSDBuilder
 
 if __name__ == '__main__':
     main = BSDBuilder();
