@@ -1,3 +1,8 @@
+bsd_builder_cloudbsdorg.egg-info
 .idea
 venv
+vscode
+build
+dist
+
 
